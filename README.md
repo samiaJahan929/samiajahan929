@@ -1,7 +1,7 @@
-## Hi there 👋
+## 👋 Hello, I'm Samia Jahan Ratna - Software Quality Assurance Engineer
 
-<!--
-**samiaJahan929/samiajahan929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm passionate about SQA, which ensures the quality, dependability, and security of software products.As a SQA engineer, want to advance in my work and provide software solutions that satisfy the most high requirements for customer service and quality.
 
 Here are some ideas to get you started:
 
