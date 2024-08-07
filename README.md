@@ -27,8 +27,5 @@ I'm skilled with the following tools and technologies:
 <h3>📈 Project :</h3>
 <p>Check out some of my projects related to software testing, quality assurance, and test automation. I'm constantly exploring new ways to improve testing processes and contribute to the open-source testing 
   community.</p>
-  
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Happy Testing!🚀
