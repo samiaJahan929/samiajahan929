@@ -23,7 +23,6 @@ I'm skilled with the following tools and technologies:
 - Test Automation : Selenium with Java, TestNG, WebDriver, Playwrite
 - Development Methodologies : Agile, Scrum, Waterfall
 - Database Testing : MySQL
-- <a href = "https://www.linkedin.com/in/samia-jahan-04a9b6230/">LinkedIn</a>
 
 <h3>📈 Project :</h3>
 <p>Check out some of my projects related to software testing, quality assurance, and test automation. I'm constantly exploring new ways to improve testing processes and contribute to the open-source testing 
