@@ -3,7 +3,7 @@
 
 I'm passionate about SQA, which ensures the quality, dependability, and security of software products.As a SQA engineer, want to advance in my work and provide software solutions that satisfy the most high requirements for customer service and quality.
 
-Here are some ideas to get you started:
+💼 Professional Overview
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
