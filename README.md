@@ -3,13 +3,31 @@
 
 I'm passionate about SQA, which ensures the quality, dependability, and security of software products.As a SQA engineer, want to advance in my work and provide software solutions that satisfy the most high requirements for customer service and quality.
 
-💼 Professional Overview
+<h3>💼 Professional Skills </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on creating & executing testing tasks and ensure consistency.
+- 🌱 I'm skilled in developing test plans, test strategies and test cases, as well as executing them to find any hidden bugs.
+- 👯 I collaborate closely with cross functional teams ,developers and product managers to identify and resolve issues.Actively participating in QA communities and forums.
+- 🤔 I Familiar with integrating testing processes into CI/CD pipelines using Jenkins.
+- 💬 I'm always excited to discuss best practices in testing, test automation, and quality assurance methodologies.
+  
+<h3>🛠️ Testing Tools & Techniques </h3>
+
+I'm skilled with the following tools and technologies:
+- Manual Testing : Telecomshop web aplication, Functional Testing, Non-Functional Testing
+- API Testing : Data-Driven-API, Student hub API Testing
+- API Tools : Postman,Newman
+- Performance Testing : Load Testing, Strees Testing, Spike Testing, Endurance Testing, Volumn Testing
+- Performance Tools : Apache JMeter
+- Test Mangement : Jira, ClickUp
+- Test Automation : Selenium with Java, TestNG, WebDriver, Playwrite
+- Development Methodologies : Agile, Scrum, Waterfall
+- Database Testing : MySQL
+
+<h3>📈 Project :</h3>
+<p>Check out some of my projects related to software testing, quality assurance, and test automation. I'm constantly exploring new ways to improve testing processes and contribute to the open-source testing 
+  community.</p>
+  
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
