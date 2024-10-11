@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Samia Jahan Ratna - Software Quality Assurance Engineer
+## 👋 Hello, I'm Samia Jahan Ratna - Software Quality Assurance Enthusiast
 
 
 I'm passionate about SQA, which ensures the quality, dependability, and security of software products.As a SQA engineer, want to advance in my work and provide software solutions that satisfy the most high requirements for customer service and quality.
