@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samia Jahan Ratna</h1>
+<h1 align="center">Hi,👋 I'm Samia Jahan Ratna</h1>
 A passionate Software Tester from Bangladesh
 
 
