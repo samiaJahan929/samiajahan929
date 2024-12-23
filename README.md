@@ -10,8 +10,7 @@
   
 - 👨‍💻 All of my projects are available at   **[Samia Jahan/github.com](https://github.com/samiaJahan929)**
   
-- 💬 I'm always excited to discuss best practices in testing, test automation,
-      and quality assurance methodologies.
+- 💬 I'm always excited to discuss best practices in testing, test automation,\n and quality assurance methodologies.
   
   
 <h3>📫 How to reach me:</h3>
