@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning various types of testing and methodologies
-- 👨‍💻 All of my projects are available at [Samia Jahan/github.com](
+- 👨‍💻 All of my projects are available at [Samia Jahan/github.com](https://github.com/samiaJahan929)
 - 💬 I'm always excited to discuss best practices in testing, test automation, and quality assurance methodologies.
   
 <h3>📫 How to reach me:</h3>
