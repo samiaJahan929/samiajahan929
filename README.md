@@ -1,6 +1,6 @@
-##  Hi 👋 I'm Samia Jahan Ratna
+                                        ##  Hi 👋 I'm Samia Jahan Ratna
 
-A passionate Software Tester from Bangladesh
+                                  A passionate Software Tester from Bangladesh
 <h3>💼 Professional Skills </h3>
 
 - 🔭 I’m currently working on creating & executing testing tasks and ensure consistency.
