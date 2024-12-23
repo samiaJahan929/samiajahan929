@@ -1,5 +1,6 @@
 <h1 align="center">Hi,👋 I'm Samia Jahan Ratna</h1>
-A passionate Software Tester from Bangladesh
+<h3 align="center"> I have completed B.Sc in CSE and I'm passionate Software Tester from Bangladesh</h3>
+
 
 
 - 🔭 I’m currently working on creating & executing testing tasks and ensure consistency.
