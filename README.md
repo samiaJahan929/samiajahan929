@@ -1,5 +1,5 @@
 <h1 align="center">Hi,👋 I'm Samia Jahan Ratna</h1>
-<h3 align="center"> I have completed B.Sc in CSE and I'm passionate Software Tester from Bangladesh</h3>
+<h3> I have completed B.Sc in CSE and I'm passionate Software Tester from Bangladesh</h3>
 
 
 - 🌱 I’m currently learning various types of testing and methodologies
@@ -15,7 +15,6 @@
 
 - <a href = "samiajahan763@gmail.com">Email</a>
 
-- Let's connect and share insights into the exciting world of software quality assurance. 
-- Feel free to explore my repositories and reach out for discussions or collaborations.
+Let's connect and share insights into the exciting world of software quality assurance. Feel free to explore my repositories and reach out for discussions or collaborations.
 
 Happy Testing!🚀
